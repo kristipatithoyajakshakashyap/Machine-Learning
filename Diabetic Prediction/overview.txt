@@ -1,4 +1,4 @@
-Diabetic Prediction is done with the Machine Learnig model using the Logistic Regression Model and Support Vector Machine . This model is used because 
+Diabetic Prediction is done with the Machine Learnig model using the Logistic Regression Model and Support Vector Machine. This model is used because 
 1. This is a supervised Machine Learnig model 
 2. The output is the binary whether he is diabetic(1) or not(0)
 3. This is a classification model between the 2 outcomes
